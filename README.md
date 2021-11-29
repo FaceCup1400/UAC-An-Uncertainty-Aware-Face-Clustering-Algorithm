@@ -1,5 +1,5 @@
 # UAC-An-Uncertainty-Aware-Face-Clustering-Algorithm
-                          ![image](https://user-images.githubusercontent.com/94538977/143826722-3b038b59-ef9c-4ff3-af79-5c4dca0fe0da.png)
+![image](https://user-images.githubusercontent.com/94538977/143826722-3b038b59-ef9c-4ff3-af79-5c4dca0fe0da.png)
 
 
 
